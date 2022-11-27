@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(63, 59, 59);
+}
+img{
+    width: 250px;
+    border-radius: 20px;
+}
+.nameofalbum{
+    color: azure;
+}
+.singer{
+    color: red;
+}
+.history{
+    color: azure;
+    text-align: justify;
+    font-size: medium;
+    width: 500px;
+}
+button{
+    border-radius: 10px;
+    color: red;
+    background-color: white;
+    border-color: transparent;
+    font-size: 13px;
+    height: 38px;
+}
+.hr1{
+    background-color: white;
+    margin-top: 25px;
+}
+.otheralbums{
+    color: white
+}
+.first,.second,.third{
+    color: white;
+    margin: 0px;
+}
+.hr2{
+    background-color: white;
+    margin-top: 15px;
+}
+.message{
+    color: red;
+    margin-top: 0px;
+}
+
+
+
